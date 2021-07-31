@@ -1,0 +1,59 @@
+{
+  "basics": {
+    "name": "Kumar Sambhav",
+    "label": "Student",
+    "picture": "---Enter Image URL----",
+    "email": "krsambhav16@gmail.com",
+    "phone": "+916204177538",
+    "website": "krsambhav.in",
+    "summary": "I'm a student of IIIT Kota.",
+    "location": {
+      "city": "Patna",
+      "countryCode": "India",
+      "region": "Bihar"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "handle",
+        "url": "https://www.twitter.com/krsambhav16"
+      },
+      {
+        "network": "Github",
+        "username": "handle",
+        "url": "https://www.github.com/krsambhav/"
+      },
+      {
+        "network": "linkedin",
+        "username": "username",
+        "url": "https://www.linkedin.com/in/krsambhav/"
+      },
+      {
+        "network": "Instagram",
+        "username": "handle",
+        "url": "https://instagram.com/_krsam_"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Indian Institute of Information technology,kota",
+      "area": "Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2019-04-08",
+      "courses": ["Computer Science & Engineering"]
+    }
+  ],
+  "skills": [
+    {
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript", "React"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": ["Badminton"]
+    }
+  ]
+}
